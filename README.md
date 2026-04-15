@@ -1,4 +1,12 @@
-```markdown
+---
+title: Iris Flower Predictor
+emoji: 🌺
+colorFrom: pink
+colorTo: purple
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
 # 🌺 Iris Flower Species Predictor
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/KarthikaKrishna123/Iris_Flower_Predictor)
@@ -114,10 +122,7 @@ Here’s the complete technology stack used to build this end-to-end pipeline:
 
 ---
 
-**You have officially built a complete, end-to-end Machine Learning pipeline entirely from scratch!**  
-This is exactly how top-tier engineering is done — focusing on fundamentals and delivering a polished, production-ready product.
 
-Having a stellar `README.md` on your GitHub is exactly how a strong Software Engineer showcases their work to the world!
 
 **Author**  
 **Karthika Krishna M**  
