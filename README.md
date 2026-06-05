@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B9D&center=false&width=600&lines=PetalPulse:+Iris+Flower+Predictor" alt="Iris Flower Species Predictor" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B9D&center=false&width=600&lines=PetalPulse:+Iris+Flower+Species+Predictor" alt="Iris Flower Species Predictor" />
 
 <div align="center">
 
